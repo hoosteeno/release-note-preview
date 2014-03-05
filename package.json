@@ -1,0 +1,14 @@
+{
+    "license": "MPL 2.0",
+    "description": "Preview release notes",
+    "contributors": [],
+    "author": "hoosteeno",
+    "url": "http://github.com/hoosteeno/release-note-preview",
+    "dependencies": ["api-utils", "addon-kit"],
+    "version": "0.0.1",
+    "lib": "lib",
+    "fullName": "release-note-preview",
+    "main": "main",
+    "id": "release-note-preview@mozilla.org",
+    "name": "release-note-preview"
+}
